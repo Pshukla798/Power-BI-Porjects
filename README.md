@@ -295,10 +295,8 @@ Create new DAX measures for additional insights or refine existing ones.
 Contact
 For any questions or suggestions, you can reach out to:
 
-[Your Name]: [your email]
-LinkedIn: [Your LinkedIn]
-Medium: [Your Medium]
-Website: [Your Website]
+[Prashant Shukla: [shukla12798@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/prashant-shukla-8a2690235/overlay/contact-info/]
 
 ![image](https://github.com/user-attachments/assets/34153b12-b9cc-43fd-a231-944299a13aac)
 
